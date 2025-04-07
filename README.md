@@ -1,4 +1,4 @@
-# Prazer, Nicolas Pimentel
+# Nicolas Pimentel
 
 `Desenvolvedor FullStack`
 
