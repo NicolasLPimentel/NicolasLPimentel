@@ -1,4 +1,4 @@
-## Olá Mundo! Sou Nicolas Pimentel - `Desenvolvedor FullStack`
+## Olá Mundo! Sou Nicolas Pimentel - `Desenvolvedor FullStack`👋🏼
 
 - Me chamo Nicolas Lorena Pimentel, tenho 17 anos e sou natural de São José dos Campos - SP.
 - Atualmente, estou cursando o terceiro ano do ensino médio concomitante ao curso técnico em informática do Colégio Univap - Centro. 
