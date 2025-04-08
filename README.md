@@ -2,7 +2,7 @@
 
 - Me chamo Nicolas Lorena Pimentel, tenho 17 anos e sou natural de São José dos Campos - SP.
 - Atualmente, estou cursando o terceiro ano do ensino médio concomitante ao curso técnico em informática do Colégio Univap - Centro. 
-- Programar, aprender coisas novas e esportes são minhas atividades favoritas.
+- Programar, aprender coisas novas e praticar esportes são minhas atividades favoritas.
 
 
 ## 🌐 Redes Sociais
